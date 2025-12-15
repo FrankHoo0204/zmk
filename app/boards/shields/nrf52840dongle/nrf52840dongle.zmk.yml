@@ -1,0 +1,9 @@
+id: nrf52840dongle
+name: nRF52840 USB Dongle
+type: shield
+
+features:
+  - keys
+
+requires: []
+
